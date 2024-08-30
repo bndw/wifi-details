@@ -1084,7 +1084,7 @@ export const Translations = [
     id: 'mg-MG',
     name: 'Malagasy - Malagasy',
     translation: {
-      title: 'Karatra WifiWiFi',
+      title: 'Karatra Wifi',
       'desc.use':
         "Antontay ny karatra tsotra maneho ny mombamomba ny wifi-nao. Apetraho eran'ny trano, ataovy any anaty boky, sns",
       'desc.privacy':
@@ -1109,9 +1109,9 @@ export const Translations = [
       'wifi.alert.name': 'Tsy maintsy misy anarana ilay tambajotra',
       'wifi.alert.password': 'Tsy maintsy fenoina ny fanalahidy',
       'wifi.alert.password.length.5':
-        "Tsy maintsy lava noho ny litera 5 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
+        "Tsy mihoatry ny litera 5 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
       'wifi.alert.password.length.8':
-        "Tsy maintsy lava noho ny litera 8 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
+        "Tsy mihoatry ny litera 8 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
       'wifi.alert.eapIdentity': 'Tsy maintsy fenoina ny anarana',
       'button.rotate': 'Ahodino',
       'button.print': 'Antontay',
