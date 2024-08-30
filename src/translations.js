@@ -1084,7 +1084,7 @@ export const Translations = [
     id: 'mg-MG',
     name: 'Malagasy - Malagasy',
     translation: {
-      title: 'Karatra WifiWiFi',
+      title: 'Karatra Wifi',
       'desc.use':
         "Antontay ny karatra tsotra maneho ny mombamomba ny wifi-nao. Apetraho eran'ny trano, ataovy any anaty boky, sns",
       'desc.privacy':
