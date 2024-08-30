@@ -1080,6 +1080,44 @@ export const Translations = [
       select: 'Vælg sprog',
     },
   },
+  {
+    id: 'mg-MG',
+    name: 'Malagasy - Malagasy',
+    translation: {
+      title: 'Karatra Wifi',
+      'desc.use':
+        "Antontay ny karatra tsotra maneho ny mombamomba ny wifi-nao. Apetraho eran'ny trano, ataovy any anaty boky, sns",
+      'desc.privacy':
+        "Tsy tehirizinay na aiza na aiza izay zavatra ampidirinao eto. Tsy misy fanarahana na fitsikilovana eto amin'ity pejy ity. Misy fanazavana",
+      'desc.source': 'source code',
+      'wifi.identity': 'Anarana',
+      'wifi.identity.placeholder': 'Anarana',
+      'wifi.login': 'Momba ny WiFi',
+      'wifi.name': 'SSID',
+      'wifi.name.hiddenSSID': 'SSID miafina',
+      'cards.additional': "Isan' ny karatra fanampiny atonta",
+      'cards.tip.hide': 'Aza asiana fanazavana (legend)',
+      'wifi.name.placeholder': "Anaran'ny tambajotra WiFi (SSID)",
+      'wifi.password': 'Fanalahidy',
+      'wifi.password.placeholder': 'Teny fanalahidy',
+      'wifi.password.hide': 'Afeno ny fanalahidy',
+      'wifi.password.encryption': 'Encryption',
+      'wifi.password.encryption.none': 'Tsy misy',
+      'wifi.encryption.eapMethod': 'EAP method',
+      'wifi.tip':
+        "Mba hidiranao malakilaky dia alaivo sary amin'ny fakantsarinao ilay QR Code",
+      'wifi.alert.name': 'Tsy maintsy misy anarana ilay tambajotra',
+      'wifi.alert.password': 'Tsy maintsy fenoina ny fanalahidy',
+      'wifi.alert.password.length.5':
+        "Tsy maintsy mihoatry ny litera 5 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
+      'wifi.alert.password.length.8':
+        "Tsy maintsy mihoatry ny litera 8 ny fanalahidy, na tsy maintsy ovaina ho 'Tsy Misy' ny Encryption",
+      'wifi.alert.eapIdentity': 'Tsy maintsy fenoina ny anarana',
+      'button.rotate': 'Ahodino',
+      'button.print': 'Antontay',
+      select: 'Mifidiana fiteny hafa',
+    },
+  },
 ].sort((a, b) => {
   return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
 });
